@@ -1,4 +1,4 @@
-mport time
+import time
 print('Please insert your ATM Card')
 time.sleep(5)
 pin = int(input('Enter your 4 digit ATM Pin'))
